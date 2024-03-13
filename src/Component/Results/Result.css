@@ -1,0 +1,9 @@
+.results
+{
+    display: grid;
+    /* flex-wrap: wrap; */
+    grid-template-columns: 2fr 2fr 2fr;
+    margin-left:10px;
+    overflow-x: hidden;
+}
+
